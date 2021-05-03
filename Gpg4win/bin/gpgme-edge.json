@@ -1,0 +1,9 @@
+{
+"name": "gpgmejson",
+"description": "Javascript-binding for gnupg",
+"path": "C:\\Users\\LENOVO\\KlonGIT\\0062-TIA\\Gpg4win\\bin\\gpgme-json.exe",
+"type": "stdio",
+"allowed_origins": [
+	"chrome-extension://dgcbddhdhjppfdfjpciagmmibadmoapc/"
+]
+}
